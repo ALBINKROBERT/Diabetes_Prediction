@@ -80,7 +80,7 @@ Top predictors identified by both models:
 
 | Model | Accuracy | CV Score | ROC-AUC |
 |---------|---------|---------|---------|
-| Logistic Regression | 75.0% | 76.88% | - |
+| Logistic Regression | 75.0% | 76.88% | 0.822 |
 | Random Forest | 73.38% | 77.85% | 0.834 |
 
 ## Conclusion
